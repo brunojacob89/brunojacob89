@@ -34,3 +34,5 @@
  </div>
   
   <img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
+  
+  ![Snake animation](https://github.com/brunojacob89//blob/output/github-contribution-grid-snake.svg)
