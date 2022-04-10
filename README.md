@@ -1,8 +1,9 @@
-### Hello I'm Bruno Jacob <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### Hello I'm Bruno Jacob <img src="https://user-images.githubusercontent.com/87205957/162596082-fb44cc7b-cb7f-47bb-86b6-fcf60d9de830.gif" width="90"> 
 
 - 🔭 Hoje Trabalho com back-end
 - 🌱 Estudando Banco de Dados e Spring Boot
 - 😄 Pronouns: ele/dele
+
 
 <div align="center">
   <a href="https://github.com/brunojacob89">
@@ -36,5 +37,5 @@
   <img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
   
  ![Snake animation](https://github.com/brunojacob89/brunojacob89/blob/output/github-contribution-grid-snake.svg)
-
+ 
    </div>
