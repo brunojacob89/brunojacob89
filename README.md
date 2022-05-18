@@ -2,7 +2,7 @@
 
 - 🔭 Hoje Trabalho com back-end
 - 🌱 Estudando Banco de Dados e Spring Boot
-- 😄 Pronouns: ele/dele
+
 
 
 <div align="center">
