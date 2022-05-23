@@ -1,8 +1,14 @@
-### Hello I'm Bruno Jacob <img src="https://user-images.githubusercontent.com/87205957/162596082-fb44cc7b-cb7f-47bb-86b6-fcf60d9de830.gif" width="90"> 
-
-- 🔭 Hoje Trabalho com back-end
-- 🌱 Estudando Banco de Dados e Spring Boot
-
+<p align="center">
+  🙋‍♂️ Hi, I'm Bruno Jacob, Back-End Developer from Brazil. <img src="https://user-images.githubusercontent.com/87205957/162596082-fb44cc7b-cb7f-47bb-86b6-fcf60d9de830.gif" width="90">
+  <br>
+  🤓 I'm currently studying and specializing in Back-End development.
+  <br>
+  💻 I love writing code and solving problems.
+  <br>
+  👨‍💻 I'm always open to learning about new solutions and technologies.
+  <br>
+  📫 How to reach me: <a href="mailto: brunojacob_89@hotmail.com">brunojacob_89@hotmail.com</a>
+</p>
 
 
 <div align="center">
@@ -11,7 +17,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunojacob89&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
- <div style="display: inline_block"><br>
+ <div align="center" style="display: inline_block"><br>
 <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />         
@@ -34,7 +40,7 @@
     
 
   
-  <img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
+  <img src="https://i.ibb.co/0MZzJ2d/download.png" align="center" border="0">
   
  ![Snake animation](https://github.com/brunojacob89/brunojacob89/blob/output/github-contribution-grid-snake.svg)
  
